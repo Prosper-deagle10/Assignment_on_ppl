@@ -1,0 +1,10 @@
+DATA TYPES IN PYTHON 
+Python Data Types
+Numeric data types: int, float, complex.
+String data types: str.
+Sequence types: list, tuple, range.
+Binary types: bytes, bytearray, memoryview.
+Mapping data type: dict.
+Boolean type: bool.
+Set data types: set, frozenset. Python Numeric Data Type. Python numeric data type is used to hold numeric values like;
+
