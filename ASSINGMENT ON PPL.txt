@@ -1,0 +1,9 @@
+ASSIGNMENT ON PPL
+‎1.OBJECT ORIENTED PROGRAMMING:Object-Oriented Programming is a programming paradigm based on the concept of "objects",which can contain data and code. The data is in the form of fields, and the code is in the form of procedures. A common feature of objects is that procedures are attached to them and can access and modify the object's data fields. 
+2.FUNTIONAL PROGRAMMING:In computer science, functional programming is a programming paradigm where programs are constructed by applying and composing functions. 
+3.IMPERATIVE PROGRAMMING:In computer science, imperative programming is a programming paradigm of software that uses statements that change a program's state. In much the same way that the imperative mood in natural languages expresses commands, an imperative program consists of commands for the computer to perform. 
+4.PARALLEL COMPUTING:Parallel computing is a type of computation in which many calculations or processes are carried out simultaneously. Large problems can often be divided into smaller ones, which can then be solved at the same time. 
+5.STRUCTURED PROGRAMMING:Structured programming is a programming paradigm aimed at improving the clarity, quality, and development time of a computer program by making extensive use of the structured control flow constructs of selection and repetition, block structures, and subroutines.
+6.LOGIC PROGRAMMING:Logic programming is a programming paradigm which is largely based on formal logic. Any program written in a logic programming language is a set of sentences in logical form, expressing facts and rules about some problem domain. 
+
+
