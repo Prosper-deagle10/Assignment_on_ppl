@@ -6,4 +6,4 @@ ASSIGNMENT ON PPL
 5.STRUCTURED PROGRAMMING:Structured programming is a programming paradigm aimed at improving the clarity, quality, and development time of a computer program by making extensive use of the structured control flow constructs of selection and repetition, block structures, and subroutines.
 6.LOGIC PROGRAMMING:Logic programming is a programming paradigm which is largely based on formal logic. Any program written in a logic programming language is a set of sentences in logical form, expressing facts and rules about some problem domain. 
 
-
+I LOVE MIMI-KWARI
